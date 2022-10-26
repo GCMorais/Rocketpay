@@ -9,7 +9,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-projeto">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Feedback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Contato</a>
-</p>
+</p>dd
 
 
 
@@ -35,7 +35,7 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 
 ## Feedback
 
-Se você tiver algum feedback, por favor me envie nos contatos que estarei disponibilizando no tópico abaixo, conto com sua ajuda :D
+Se você tiver algum feedback, por favor me envie nos contatos que estarei disponibilizando no tópico abaixo, conto com sua ajuda !!!
 
 
 ## Redes Sociais / Contato
